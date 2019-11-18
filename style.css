@@ -10,7 +10,7 @@
     flex: 1;
     overflow: hidden; /*overflow for each box*/
     transition: .7s;
-    margin: 0 .5%;
+    margin: 0 .2%;
     box-shadow: 0 30px 40px rgba(17, 16, 16, 0.1);
     line-height: 0;
      
@@ -29,6 +29,7 @@
     text-align: center;
     height: 10vh;
     line-height: 2.6;
+    transition: .1s;
 }
 
 
